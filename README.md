@@ -1,5 +1,11 @@
 # Password Manager using Reactjs, Node.js, Express & mysql
 
+### `Technology Stack used`
+1. React
+2. Node.js
+3. Express
+4. MySql
+
 install frontend and backend dependency using "npm install" for both client and server
 
 ### `npm start`
