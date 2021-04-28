@@ -1,4 +1,6 @@
-# Password Manager using Reactjs, Node.js, Express & mysql
+# Password Manager
+
+### Stores password for all your accounts in encrypted form.
 
 ### `Technology Stack used`
 1. React
